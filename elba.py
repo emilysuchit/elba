@@ -30,7 +30,7 @@ from telegram.ext import (
 #  CONFIGURATION
 # ═══════════════════════════════════════════════════════════════
 
-BOT_TOKEN = "8094436736:AAEEizFe5WE9c9aMOHT_--Vw0NIF2zS948Q"
+BOT_TOKEN = "8631861484:AAGdHK-b0i0xxKocaxS5E1Y-7FzctAXo9Vs"
 ADMIN_IDS: Set[int] = {7132150988, 987654321}
 CHANNEL_ID = "-1002200268580"
 
